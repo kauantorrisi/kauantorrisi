@@ -11,6 +11,8 @@
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div><br/>
 
+![Snake animation](https://github.com/kauantorrisi/kauantorrisi/blob/output/github-contribution-grid-snake.svg)
+
 Sempre buscando aprender mais e mais, apaixonado por tecnologia e principalmente por programar! 💻📲
 
 #### ✉️ Contate-me por este email: torrisikauan@gmail.com
