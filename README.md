@@ -17,4 +17,4 @@
 
 ![Snake animation](https://github.com/kauantorrisi/kauantorrisi/blob/output/github-contribution-grid-snake.svg)
 
-Sempre em busca de mais conhecimento, apaixonado por tecnologia e principalmente por programar (e jogar nas horas vagas, ninguém é de ferro haha)! 💻📲
+### Sempre em busca de mais conhecimento, apaixonado por tecnologia e principalmente por programar (e jogar nas horas vagas, ninguém é de ferro haha)! 💻📲
