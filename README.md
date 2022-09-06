@@ -1,4 +1,4 @@
-### Oi! Eu sou o Kauan!! 👌
+### Olá! Seja bem vindo(a), aproveita e dá uma olhada nos meus códigos, tenho certeza que vai curtir! ☕
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-torrisi-42541a1b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauantorrisii/)
@@ -17,6 +17,4 @@
 
 ![Snake animation](https://github.com/kauantorrisi/kauantorrisi/blob/output/github-contribution-grid-snake.svg)
 
-Sempre buscando aprender mais e mais, apaixonado por tecnologia e principalmente por programar! 💻📲
-
-#### ✉ Contate-me por este email: torrisikauan@gmail.com
+Sempre em busca de mais conhecimento, apaixonado por tecnologia e principalmente por programar (e jogar nas horas vagas, ninguém é de ferro haha)! 💻📲
