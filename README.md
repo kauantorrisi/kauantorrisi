@@ -1,8 +1,8 @@
-### Olá! Seja bem vindo(a), aproveita e dá uma olhada nos meus códigos, tenho certeza que vai curtir! ☕
+## Olá! Seja bem vindo(a), aproveita e dá uma olhada nos meus códigos, tenho certeza que vai curtir! ☕
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauantorrisi&show_icons=true&theme=tokyonight)
 
-## Tecnologias que ando estudando e utilizando no meu dia:
+### Tecnologias que ando estudando e utilizando no meu dia:
 <div style="display: inline_block"><br/>
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -13,7 +13,7 @@
 
 ### Sempre em busca de mais conhecimento, apaixonado por tecnologia e principalmente por programar coisas novas!
 
-## Contato:
+### Entre em contato comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-torrisi-42541a1b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauantorrisii/)
