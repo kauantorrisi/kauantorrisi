@@ -21,7 +21,7 @@
 
 * <img height="25px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png"/> Want to talk about technology, games or anything else related? Send a message!
 
-* <img height="25px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" /> If you want to know more about me, take a look at my <a target="_blank" href="#">portfolio<a/>.
+* <img height="25px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" /> If you want to know more about me, take a look at my <a target="_blank" href="#">portfolio<a/>. _is still being developed!!_
 </div>
 
 ### My Stack
