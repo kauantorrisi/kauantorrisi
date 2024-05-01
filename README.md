@@ -21,7 +21,7 @@
 
 * <img height="25px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png"/> Want to talk about technology, games or anything else related? Send a message!
 
-* <img height="25px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" /> If you want to know more about me, take a look at my <a href="#">portfolio<a/>.
+* <img height="25px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" /> If you want to know more about me, take a look at my <a target="_blank" href="#">portfolio<a/>.
 </div>
 
 ### My Stack
@@ -57,9 +57,9 @@
 
 ### Social Links
 <div align="left">
-  <a href="https://www.linkedin.com/in/kauan-torrisi-souza-42541a1b7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
-  <a href="mailto:torrisikauan@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><a/>
- <a href="https://www.youtube.com/channel/UCzel-IYZZqn40Cd0Q6KD29A"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/>
+  <a target="_blank" href="https://www.linkedin.com/in/kauan-torrisi-souza-42541a1b7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
+  <a target="_blank" href="mailto:torrisikauan@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><a/>
+ <a target="_blank" href="https://www.youtube.com/channel/UCzel-IYZZqn40Cd0Q6KD29A"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/>
 </div>
 
 ###
